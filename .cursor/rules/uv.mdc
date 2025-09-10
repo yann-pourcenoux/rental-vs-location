@@ -1,0 +1,6 @@
+---
+description:
+globs:
+alwaysApply: true
+---
+ use uv for python package management
